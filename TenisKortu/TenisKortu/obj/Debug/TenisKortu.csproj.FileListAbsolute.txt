@@ -1,0 +1,35 @@
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe.config
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\bin\Debug\TenisKortu.pdb
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csprojResolveAssemblyReference.cache
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Form1.resources
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Properties.Resources.resources
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csproj.GenerateResource.cache
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csproj.CoreCompileInputs.cache
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.exe
+c:\users\vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.pdb
+C:\Users\Vahittin\source\repos\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Form2.resources
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csprojResolveAssemblyReference.cache
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Form1.resources
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Form2.resources
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Properties.Resources.resources
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csproj.GenerateResource.cache
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csproj.CoreCompileInputs.cache
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.exe
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.pdb
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe.config
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe
+C:\Users\mehmetcan\Desktop\Yeni klasör\TenisKortu\TenisKortu\bin\Debug\TenisKortu.pdb
+C:\Users\Eda\Downloads\Yeni klasör\Yeni klasör\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe.config
+C:\Users\Eda\Downloads\Yeni klasör\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.exe
+C:\Users\Eda\Downloads\Yeni klasör\Yeni klasör\TenisKortu\TenisKortu\obj\Debug\TenisKortu.pdb
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe.config
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.exe
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.pdb
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\bin\Debug\TenisKortu.exe
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\bin\Debug\TenisKortu.pdb
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csprojResolveAssemblyReference.cache
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Form1.resources
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Form2.resources
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.Properties.Resources.resources
+C:\Users\Eda\Desktop\tenis\TenisKortu\TenisKortu\obj\Debug\TenisKortu.csproj.GenerateResource.Cache
